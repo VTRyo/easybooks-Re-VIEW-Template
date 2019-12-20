@@ -1,14 +1,14 @@
 {
   "bookname": "book",
-  "booktitle": "マツリカごった煮本（仮）",
-  "aut": ["Mazrica Techbook Project"],
+  "booktitle": "easybookテンプレート",
+  "aut": [""],
   "language": "ja",
   "toc": true,
-  "rights": "(C) 2018-2019　Mazrica Techbook Project",
+  "rights": "(C) 2018-2019　hoge Project",
   "colophon": true,
   "history": [["2019-x-xx xxxxxx"]],
-  "prt": "日光企画",
-  "pbl": "Mazrica Techbook Project",
+  "prt": "xx企画",
+  "pbl": "hoge Project",
   "edt": "VTRyo",
   "secnolevel": 3,
   "titlepage": true,
@@ -25,7 +25,9 @@
   "templates": ["images"],
   "catalog": {
     "PREDEF": ["chap-preface.md"],
-    "CHAPS": ["chap-ryo.md"],
+    "CHAPS": [
+      "chap-1.md"
+    ],
     "APPENDIX": ["chap-appendix.md"],
     "POSTDEF": ["chap-postscript.md", "chap-specialthanks.md", "chap-contributors.md"]
 	}

@@ -1,3 +1,5 @@
+# 参考：https://blog.vtryo.me/entry/build-pdf-to-slack-using-circleci
+
 version: 2
 
 build: &build-image
