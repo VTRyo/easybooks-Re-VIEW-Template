@@ -112,11 +112,13 @@ The file name must be associated with config.json.
 
 catalog.PREDEF, catalog.CHAPS, catalog.POSTDEF, catalog.APPENDIX part described in config.json.
 
-PREDEF | Preface, prologue, etc.
+Param | for example
 --- | ---
+PREDEF | Preface, prologue, etc.
 CHAPS | Chapter unit
 APPENDIX | Appendix
 POSTDEF | Postscript, author introduction, etc.
+
 
 ### Images
 
