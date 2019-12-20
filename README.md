@@ -129,3 +129,7 @@ For example, it is easy to understand if you create a directory for each chapter
 ```
 images/chap-1/code-sample1.png
 ```
+
+# License
+
+Based on [TechBooster/ReVIEW-Template: TechBoosterで利用しているRe:VIEWのテンプレート（B5/A5/電子書籍）](https://github.com/TechBooster/ReVIEW-Template) used by TechBooster.
